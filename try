@@ -1,0 +1,20 @@
+<html>
+<<head>
+  <style media="screen">
+    h1
+    {
+      font_family: 
+    }
+  </style>
+</head>
+  <body>
+    <hr size=3 noshade>
+    <h1 align="center" >NETFLIX</h1>
+    <br>
+    <h4 align="center">aao ji aao</h4>
+  </body>
+  <hr size="3" noshade>
+</html>
+
+<!-- hr is tag is for underine -->
+<!-- br is self closing tag -->
